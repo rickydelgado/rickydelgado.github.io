@@ -3,4 +3,5 @@ layout:post
 title: Typography
 ---
 
-I am learning how to create designs using basic typography.
+#### **New this quarter!**
+> This quarter I am learning how to create designs using **basic typography**.
