@@ -1,6 +1,6 @@
 ---
 layout: post
-title: learning
+title: Learning.
 ---
 
 In my classes **this semester** I am learning to use different design elements in order to improve my design skills using *non traditional* and *traditional methods* . I have begun to work on a project that proves how important being symmetrical or asymmetrical is to a project and that it can make a world of difference.
