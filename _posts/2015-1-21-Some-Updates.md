@@ -10,3 +10,4 @@ I'm including comment using [Discus](disqus.com).
 
 [Check out this other cool page!]( http://liafrazier.github.io/ )
 
+![Africa project](https://flic.kr/p/pWufzS)
