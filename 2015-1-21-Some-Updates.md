@@ -1,1 +1,0 @@
-Some updates for today.
