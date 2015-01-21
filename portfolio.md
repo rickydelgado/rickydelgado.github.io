@@ -2,5 +2,5 @@
 layout: page
 ---
 
-[Miami Flavor]
-g
+[Miami Flavor](http://rickydelgado.github.io/portfoliopages/miami-flavor)
+
