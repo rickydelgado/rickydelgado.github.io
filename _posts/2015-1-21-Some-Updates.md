@@ -10,4 +10,6 @@ I'm including comment using [Discus](disqus.com).
 
 [Check out this other cool page!]( http://liafrazier.github.io/ )
 
-![Africa project](https://flic.kr/p/pWufzS)
+![alt text][logo]
+
+[logo]: https://flic.kr/p/pWufzS "Africa project"
