@@ -12,4 +12,4 @@ I'm including comment using [Discus](disqus.com).
 
 ![alt text][logo]
 
-[logo]: https://flic.kr/p/pWufzS "Africa project"
+[logo]: https://farm9.staticflickr.com/8645/15712808644_f8b7c160b2.jpg "Africa Project"
