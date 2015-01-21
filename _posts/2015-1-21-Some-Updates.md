@@ -7,7 +7,9 @@ layout: post
 Some updates for today on this site.
 
 I'm including comment using [Discus](disqus.com).
+
 > Carpe Diem
+
 [Check out this other cool page!]( http://liafrazier.github.io/ )
 
 ![alt text][logo]
