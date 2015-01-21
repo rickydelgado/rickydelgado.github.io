@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Form & Space
+title: Interactive Media
 ---
 
 ###Interactive Media
