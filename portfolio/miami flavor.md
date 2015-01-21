@@ -2,4 +2,4 @@
 layout: page
 ---
 
-![alt text](https://www.flickr.com/photos/130067898@N07/15713446354 "Miami Flavor Logo")
+![alt text](https://flic.kr/p/pWxw9S "Miami Flavor Logo")
