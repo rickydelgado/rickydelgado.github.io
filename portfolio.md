@@ -2,6 +2,5 @@
 layout: page
 ---
 
-test
-
-test
+[Miami Flavor]
+g
