@@ -2,5 +2,6 @@
 layout: post
 ---
 
+Some updates for today on this site.
 
-Some updates for today.
+I'm including comment using [Discus](disqus.com).
