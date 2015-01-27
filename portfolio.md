@@ -9,3 +9,5 @@ layout: page
 [Best of the Best] (http://rickydelgado.github.io/portfoliopages/best-of-the-best)
 
 [Pencil Sketch Self-portrait] (http://rickydelgado.github.io/portfoliopages/pencil-sketch)
+
+[Lolita the Whale] (http://rickydelgado.github.io/portfoliopages/lolita-collage)
