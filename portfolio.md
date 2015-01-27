@@ -4,4 +4,4 @@ layout: page
 
 [Miami Flavor Logo](http://rickydelgado.github.io/portfoliopages/miami-flavor)
 
-[Castle Group Marketing Logo] (http://rickydelgado.github.io/portfoliopages/cgm)
+[Castle Group Marketing Logo] (http://http://rickydelgado.github.io/portfoliopages/CGM)
