@@ -1,5 +1,5 @@
 ---
-type: post
+type:post
 title: 4 Things to Look for in a Graphic Designer
 ---
 
