@@ -1,4 +1,4 @@
 ---
-layout:post
-title:Design like a Pro!
+layout: post
+title: Design Like a Pro!
 ---
