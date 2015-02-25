@@ -13,3 +13,4 @@ title: Why Choose Premium?
 | Branding Package| $599.00               | $1,200.00     |
 | Book Covers     |    $250.00            | $700.00       |
    
+Although it appears to be more expensive to get the basic package consider this: With premium packages I offer extended service on your products. In the branding package one of the advantages is that we will continually create multiple designs with the same logo and scheme for different products at a discount since your company is on file with the premium services. To see all the advantages check out my pricing page for more details on premium and basic packages. 
