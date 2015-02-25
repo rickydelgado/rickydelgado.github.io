@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obviously You Have Done Your Research...
+title: Obviously You Will Want to do a Little Research...
 ---
 
 Everybody knows that when you are looking for a graphic designer you have to shop around and make sure that the person you are choosing is the best choice for your needs.
