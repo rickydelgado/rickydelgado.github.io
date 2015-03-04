@@ -9,4 +9,6 @@ title: Penguin, Panda, Hummingbird
   If you are interested in learning more about design trends try following these other great design blogs and sites!
   
   [Check out our friends at The DSGN Blog!](https://www.thedsgnblog.com "The DSGN Blog")
+  [If you're feeling like you need some inspiration or tips click here!](https://www.creativebloq.com "CreativeBloq")
   
+  ![Creative](http://brainaudit.com/wp-content/uploads/2008/07/xto_do_list_dragon.gif.pagespeed.ic.oKM7al2m9o.png "Power Through Creative Block!")
