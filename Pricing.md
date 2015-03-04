@@ -3,15 +3,6 @@ layout: page
 title: Pricing and Services
 ---
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-0xaf{background-color:#5991db}
-.tg .tg-sjv5{background-color:#6dc7c3}
-.tg .tg-huh2{font-size:14px;text-align:center}
-.tg .tg-s6z2{text-align:center}
-.tg .tg-5y5n{background-color:#ecf4ff}
 </style>
 <table class="tg">
   <tr>
