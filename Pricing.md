@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Pricing and Services
 ---
 
 </style>
