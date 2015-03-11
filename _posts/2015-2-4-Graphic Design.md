@@ -14,3 +14,6 @@ There are thousands and thousands of designers out there these days with compute
 **4.** Which designer do you have a good rapport with? When hiring a designer make sure that there is good rapport with them before you begin working with them because no one wants to work with someone who has a different way of going about their work.
 
 > “There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”
+
+
+![Graphic design](http://www.crownflyers.com/wp-content/uploads/2014/03/Graphic-Design-Is-Important-2.png "Graphic Design")
