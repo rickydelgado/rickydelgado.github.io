@@ -15,5 +15,7 @@ There are thousands and thousands of designers out there these days with compute
 
 > “There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”
 
+To read more about some good graphic design tips check out this post from a neighboring design blog
+[Click Here!](http://graphicdesign.stackexchange.com/questions/30262/what-are-the-key-principles-that-effective-designs-share "Graphic Design")
 
 ![Graphic design](http://www.crownflyers.com/wp-content/uploads/2014/03/Graphic-Design-Is-Important-2.png "Graphic Design")
