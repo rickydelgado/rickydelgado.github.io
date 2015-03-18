@@ -7,7 +7,7 @@ title: Never Pay to Download Fonts Again!
   Let’s start off with trustworthy sites. It is important that you know the site that you are using to download files to your computer. Many sites advertise free fonts only to be distributing a mass of spyware programs and viruses which collect your information or even damage your computer when opened. Using this comprehensive list you will be able to sleep easy at night knowing that you will not have to worry about one of these harmful downloads from corrupting your system. 
 	Let’s talk about quality next. With thousands of fonts on these sites you are more than likely going to find quality .ttf or .otf files that will make your work stand out from the rest. On this list there is even a site in which you can not only download free fonts, but also create your own using their online software! Talk about convenient, fast, and easy! Your font troubles are over!  
 
-[1. DaFont](http://www.dafont.com)
+1. [DaFont](http://www.dafont.com)
 
 ![DaFont](https://farm9.staticflickr.com/8628/16856466555_1d36330d3d_n.jpg "DaFont")
 	
