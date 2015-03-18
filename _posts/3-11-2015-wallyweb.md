@@ -3,7 +3,7 @@ layout: post
 title: Wally Web Profile
 ---
 
-It is very important to know your audience. Knowing who could be your next potential client is always important, particularly if you are a freelance designer. Here is a sample profile for a post grad web designer, let's call him Wally Web. Let's click to read more and find out what Wally's profile looks like!
+It is very important to know your audience. Here is a sample profile for a post grad web designer, let's call him Wally Web. Let's click to read more and find out what Wally's profile looks like!
 
 ![Wally Web](https://farm9.staticflickr.com/8663/16227939644_4200757969.jpg "WALLY WEB")
 
