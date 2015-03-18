@@ -9,6 +9,9 @@ Here is a sample profile for a post grad web designer, let's call him Wally Web.
 
 #Wally Web
 
+                                                                                                                                                                                                                                                     
+
+
 ![Who is he?](https://farm8.staticflickr.com/7652/16664179779_bcd10a18ca_z.jpg "Wally")
 ![What does he do?](https://farm8.staticflickr.com/7285/16662713418_32c2572181_z.jpg "Wally")
 ![Why not?](https://farm8.staticflickr.com/7638/16662930760_a68b21c0b8_z.jpg "Wally")
