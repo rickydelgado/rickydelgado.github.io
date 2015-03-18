@@ -10,3 +10,4 @@ There are many advantages to being a graphic designer in the beautiful city of M
   If you are not local, the advantage of living in an international hub city will still allow for large diversity in the body of work experience that we have. Either way with the availability of multiple tiers of pricing and various packages we will be able to give you everything you need, advertedly increasing cost efficiency.
   
   These are just some of the advantages of hiring us, so make sure to hire someone for your next job that you know will get the job done right. Hire one of us in Miami!
+
