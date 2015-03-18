@@ -4,7 +4,9 @@ title: Never Pay to Download Fonts Again!
 ---
 
   If you are like me, you hate having to pay for new fonts to download. Being a web or graphic designer can become costly when it comes to purchasing customized fonts. What would you do if I told you that you would never have to pay for a font again? Well now that you are reading this article you may never have to! Keep reading to discover the top 10 sites I have found for free font downloads. 
+  
   Let’s start off with trustworthy sites. It is important that you know the site that you are using to download files to your computer. Many sites advertise free fonts only to be distributing a mass of spyware programs and viruses which collect your information or even damage your computer when opened. Using this comprehensive list you will be able to sleep easy at night knowing that you will not have to worry about one of these harmful downloads from corrupting your system. 
+  
 	Let’s talk about quality next. With thousands of fonts on these sites you are more than likely going to find quality .ttf or .otf files that will make your work stand out from the rest. On this list there is even a site in which you can not only download free fonts, but also create your own using their online software! Talk about convenient, fast, and easy! Your font troubles are over!  
 
 1. [DaFont](http://www.dafont.com)
