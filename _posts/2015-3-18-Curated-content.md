@@ -17,7 +17,7 @@ title: Never Pay to Download Fonts Again!
 
 ![FontSpace](https://farm8.staticflickr.com/7610/16856466145_fe50233be1_n.jpg "FontSpace")
 	
-3. [1001 Free Fonts](http://www.1001freefonts.com)
+3.[1001 Free Fonts](http://www.1001freefonts.com)
 
 ![1001 Free Fonts](https://farm9.staticflickr.com/8664/16670339489_ceb1edb12d_n.jpg "1001 Fonts")
 	
