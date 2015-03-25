@@ -27,10 +27,15 @@ The battle in the country’s largest swing state offers a preview of what could
 
 ***There are multiple instances of proof that this is not only a current problem but it is a growing problem.***
 -	Miami Beach has been known to flood (even on sunny days)
+
 -	-Sea levels have risen about 8 inches in Miami Beach in the last century
+
 -	Miami Beach is being forced to spend $400 million on an elaborate pumping system to be able to cope with routine flooding
+
 -	The state has spent about $130 million on coastal flooding in the governor’s  first term, as well as millions on environmental restoration.
+
 -	Ft. Lauderdale has also shelled out millions in order to restore beaches and a section of the coastal highway due to storm damage and a breached sea wall.
+
 -	Hallandale Beach, which lies on the Atlantic Coast between the two cities, has abandoned six of its eight drinking water wells because of encroaching seawater.
 
 Although Rubio had voted for Crist’s landmark environmental measure, he soon hammered the governor for what he called a “cap-and-trade scheme.” Seeking support from the growing tea party movement, he distanced himself from the vote.
