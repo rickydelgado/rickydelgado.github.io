@@ -26,6 +26,7 @@ The battle in the country’s largest swing state offers a preview of what could
  “They don’t believe in science. That’s ridiculous,” former Gov. Charlie Crist said at a recent campaign rally in Miami. “This is ground zero for climate change in America.” In 2007, Crist, then a Republican, declared global warming “one of the most important issues that we will face this century,” signed executive orders to tighten tailpipe-emission standards for cars and opposed coal-fired power plants.
 
 ***There are multiple instances of proof that this is not only a current problem but it is a growing problem.***
+
 -	Miami Beach has been known to flood (even on sunny days)
 
 -	Sea levels have risen about 8 inches in Miami Beach in the last century
