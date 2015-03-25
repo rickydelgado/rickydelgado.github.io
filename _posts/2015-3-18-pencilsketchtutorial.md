@@ -12,11 +12,11 @@ Today's how-to guide is "How to create a pencil sketch using a regular photo fil
 STEP 1: Open the file you wish to create a pencil sketch with and DESATURATE the image by using CMD+SHIFT+D 
 
 ![!](https://farm8.staticflickr.com/7655/16894886786_67b8f1accc.jpg "")
-![!](https://farm8.staticflickr.com/7655/16894886786_67b8f1accc.jpg "")
+![!](https://farm8.staticflickr.com/7605/16734710489_de46d8ea31.jpg "")
 
 STEP 2: Next, you will want to duplicate the image layer by pressing control+click on the layer thumbnail and selecting duplicate layer. Rename this layer GRAYSCALE
 
-![!](https://farm8.staticflickr.com/7589/16919851422_7e7863d4b5_n.jpg "")
+![!](https://farm9.staticflickr.com/8721/16298508694_a190c4a5c6.jpg "")
 
 STEP 3: Desaturate the image by selecting on the command bar Image > Adjustments > Desaturate or simply by pressing CMND+U
 
