@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Reasons Why You Should Hire a Local Designer
---
+---
 
 I have as I am sure that you have as well heard many horror stories about businesses outsourcing their design work to save money, only to experience a lack of expertise and service that they deserve. Contracting with cheap website designers may incur a lower cost, but their designs are usually taken from templates and not customized to fully fit your goals. Choosing the best person to create your site will take a little time and effort, but it's worth it to ensure the graphic designer you select is the best person for the job.
 
