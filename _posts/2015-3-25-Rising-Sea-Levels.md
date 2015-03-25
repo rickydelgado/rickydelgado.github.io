@@ -28,7 +28,7 @@ The battle in the country’s largest swing state offers a preview of what could
 ***There are multiple instances of proof that this is not only a current problem but it is a growing problem.***
 -	Miami Beach has been known to flood (even on sunny days)
 
--	-Sea levels have risen about 8 inches in Miami Beach in the last century
+-	Sea levels have risen about 8 inches in Miami Beach in the last century
 
 -	Miami Beach is being forced to spend $400 million on an elaborate pumping system to be able to cope with routine flooding
 
