@@ -54,3 +54,4 @@ title: Never Pay to Download Fonts Again!
   
   For more useful and up to the minute information like the list in this article make sure to sign up for my newsletter!!
   
+ **UPDATE: Due to popular demand I will be uploading more articles just like this one! Stay tuned to see what list is next. I'll give you a hint: It's something to do with downloading!
