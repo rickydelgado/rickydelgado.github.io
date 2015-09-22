@@ -98,7 +98,16 @@ a:hover {
   background: rgba(0, 0, 0, 0.8);
 }
 #hero-area {
-  background-image: url("assets/img/hero/MickeyHat.png");
+* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4380b3+0,30578f+100 */
+background: #4380b3; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #4380b3 0%, #30578f 100%); /* FF3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#4380b3), color-stop(100%,#30578f)); /* Chrome,Safari4+ */
+background: -webkit-radial-gradient(center, ellipse cover,  #4380b3 0%,#30578f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-radial-gradient(center, ellipse cover,  #4380b3 0%,#30578f 100%); /* Opera 12+ */
+background: -ms-radial-gradient(center, ellipse cover,  #4380b3 0%,#30578f 100%); /* IE10+ */
+background: radial-gradient(ellipse at center,  #4380b3 0%,#30578f 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4380b3', endColorstr='#30578f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+;
   color: #fff;
 }
 #hero-area .btn {
