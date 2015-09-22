@@ -98,7 +98,7 @@ a:hover {
   background: rgba(0, 0, 0, 0.8);
 }
 #hero-area {
-  background: #34495e;
+  background: background-image: url("assets/img/hero/Mickey Hat.png");
   color: #fff;
 }
 #hero-area .btn {
