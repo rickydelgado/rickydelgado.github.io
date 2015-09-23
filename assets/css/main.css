@@ -261,11 +261,3 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4380b3', end
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
-
-#copyright {
-  background: #F1F1F1;
-  color: #333;
-}
-#copyright a {
-  color: #333;
-}
